@@ -1,0 +1,7 @@
+{
+  "name": "QueueLess — Smart Queue & Waiting-Time Optimizer",
+  "description": "Cross-platform smart queue management and waiting-time optimization app for college campuses with live tracking, DSA load balancing, and staff control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
